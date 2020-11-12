@@ -10,7 +10,7 @@ namespace game1
         private static int sz_o=100;
         //wysokosc okna
         private static int w_o=100;
-        public void Wyswietl(int[,] wyswietlanie)
+        public void Wyswietl(char[,] wyswietlanie)
         { 
             tlo(wyswietlanie);
             Wypisz(wyswietlanie);
@@ -18,18 +18,18 @@ namespace game1
         
         }
 
-        private static void tlo(int[,] wyswietlanie)
+        private static void tlo(char[,] wyswietlanie)
         {
             for (int i = 0; i < w_o ; i++)
             {
                 for (int j = 0; j < sz_o; j++)
                 {
-                    wyswietlanie[i, j] = j;
+                    wyswietlanie[i, j] = 'a';
                 }
             }
         }
 
-        private static void Wypisz(int[,] wyswietlanie)
+        private static void Wypisz(char[,] wyswietlanie)
         {
           for (int i = 0; i < w_o ; i++)
             {
