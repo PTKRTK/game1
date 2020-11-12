@@ -12,7 +12,7 @@ namespace game1
             wyswietlanie_.Wyswietl(wyswietlanie);
 //xdgggg
             
-
+            Console.WriteLine("SIEMA");
         }
 
         
