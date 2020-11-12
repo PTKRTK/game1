@@ -10,7 +10,7 @@ namespace game1
             int[,] wyswietlanie = new int[100, 100];
             Wyswietlanie wyswietlanie_ = new Wyswietlanie();
             wyswietlanie_.Wyswietl(wyswietlanie);
-//xd
+//xdgggg
             
 
         }

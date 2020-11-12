@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rpatr\\Desktop\\game1\\game1\\game1\\game1.csproj",
+      "projectUniqueName": "C:\\Users\\rpatr\\Desktop\\game___1\\game1\\game1.csproj",
       "projectName": "game1",
-      "projectPath": "C:\\Users\\rpatr\\Desktop\\game1\\game1\\game1\\game1.csproj",
+      "projectPath": "C:\\Users\\rpatr\\Desktop\\game___1\\game1\\game1.csproj",
       "packagesPath": "C:\\Users\\rpatr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rpatr\\Desktop\\game1\\game1\\game1\\obj\\",
+      "outputPath": "C:\\Users\\rpatr\\Desktop\\game___1\\game1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
