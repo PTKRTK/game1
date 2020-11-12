@@ -1,0 +1,13 @@
+C:\Users\rpatr\Desktop\game1\game1\game1\bin\Debug\netcoreapp3.1\game1.exe
+C:\Users\rpatr\Desktop\game1\game1\game1\bin\Debug\netcoreapp3.1\game1.deps.json
+C:\Users\rpatr\Desktop\game1\game1\game1\bin\Debug\netcoreapp3.1\game1.runtimeconfig.json
+C:\Users\rpatr\Desktop\game1\game1\game1\bin\Debug\netcoreapp3.1\game1.runtimeconfig.dev.json
+C:\Users\rpatr\Desktop\game1\game1\game1\bin\Debug\netcoreapp3.1\game1.dll
+C:\Users\rpatr\Desktop\game1\game1\game1\bin\Debug\netcoreapp3.1\game1.pdb
+C:\Users\rpatr\Desktop\game1\game1\game1\obj\Debug\netcoreapp3.1\game1.csprojAssemblyReference.cache
+C:\Users\rpatr\Desktop\game1\game1\game1\obj\Debug\netcoreapp3.1\game1.AssemblyInfoInputs.cache
+C:\Users\rpatr\Desktop\game1\game1\game1\obj\Debug\netcoreapp3.1\game1.AssemblyInfo.cs
+C:\Users\rpatr\Desktop\game1\game1\game1\obj\Debug\netcoreapp3.1\game1.csproj.CoreCompileInputs.cache
+C:\Users\rpatr\Desktop\game1\game1\game1\obj\Debug\netcoreapp3.1\game1.dll
+C:\Users\rpatr\Desktop\game1\game1\game1\obj\Debug\netcoreapp3.1\game1.pdb
+C:\Users\rpatr\Desktop\game1\game1\game1\obj\Debug\netcoreapp3.1\game1.genruntimeconfig.cache
